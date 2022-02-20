@@ -68,10 +68,10 @@ copyright = "© {year}"
   url = "/resume"
 
 [[menu.main]]
-  identifier = "projects"
-  name = "projects"
-  title = "Projects"
-  url = "/project"
+  identifier = "portfolio"
+  name = "portfolio"
+  title = "Portfolio"
+  url = "/portfolio"
 
 [[menu.main]]
   identifier = "blog"
