@@ -1,12 +1,13 @@
 ---
 title: "Betterspace"
 date: 2022-02-16T19:41:01-05:00
+slug: "betterspace"
 description: "Learning management system for students/professor"
-link: "https://github.com/HBillaud/Betterspace"
 keywords: ["react", "nodejs", "mongodb", "express"]
-draft: true
+draft: false
 tags: ["react", "nodejs", "mongodb", "express"]
-toc: false
+math: false
+toc: true
 ---
 
 ![Betterspace Logo](/images/Betterspace-logo.png)
